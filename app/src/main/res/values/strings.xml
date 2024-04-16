@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Jetpack Image Scroll</string>
+    <string name="image_description">Item image loading...</string>
+    <string name="load_more">Load more...</string>
+    <string name="unable_to_load_more">Unable to load more image...</string>
+    <string name="refresh_data">Refresh data</string>
+</resources>
