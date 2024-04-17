@@ -256,7 +256,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/samseptiano/jetpackscrollimage/presentation/ui/MainActivity.kt</url>
-          <line>62</line>
+          <line>48</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
